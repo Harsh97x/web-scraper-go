@@ -14,7 +14,7 @@ type PokemonProduct struct {
 }
 
 func main() {
-	fmt.Println("hello there bitches, bros and non binary hoes")
+	fmt.Println("I am Batman")
 
 	var pokemonProducts []PokemonProduct
 
